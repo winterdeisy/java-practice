@@ -26,7 +26,7 @@ public class ClassEx {
 		c1.height=80;
 		
 		System.out.println("c1은 "+c1.kind +"," +c1.number+"이며, 크기는  ("+Card.width+","+Card.height+")");
-
+		System.out.println("c2는 "+c2.kind+", "+c2.number+"이며 크기는 ("+Card.width+","+Card.height+")");
 	}
 
 }
